@@ -10,6 +10,6 @@
   <p>Zantros™ is a modern, professional organization that aims for teaching everyone about technology. It is also positively rated by most of our students, including:<br>
     <ul>
       <li><b>Nashwa Muhammad</b>: “I have been a student of Zantros™ ever since it started, all the teachers were very supportive and helpful to me, and I have been taught a lot of things; as I am new to computing and technology.”</li>
-      <li><b>Nadine Khaled</b>: “Zantros™ taught me a lot of things I did not know, and I am proud to be a Zantros™ student.”</li>
+      <li><b>Nadine Khaled</b>: “Zantros™ has taught me a lot of things I did not know, and I am proud to be a Zantros™ student.”</li>
   </ul>
 </div>
